@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "express": "3.x",
+    "async": "^0.9.0",
+    "crypto": "*",
     "ejs": "*",
-    "crypto": "*"
+    "express": "3.x",
+    "refresh-token": "0.0.2",
+    "request": "^2.40.0"
   }
 }
